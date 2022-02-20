@@ -1,0 +1,27 @@
+
+  BODY{
+background-color:#F5F5F5;
+}
+/********* Tag selctor **********/
+hr{
+border-style: dotted none none;
+border-color: #C1DEAE;
+border-width: 6px;
+width:5%;
+}
+h1{
+color: #219F94;
+}
+img:hover{
+background-color: orange;
+transition: background-color 1.5s;
+}
+/********* class selctor **********/
+.apples {
+background-color: red;
+border-radius: 100%;
+}
+/********* Id selctor((id is unique class can dupo)) **********/
+#maillto{
+color: green;
+}
